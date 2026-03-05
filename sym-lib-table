@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kitchen scale lib")(type "KiCad")(uri "${KIPRJMOD}/kitchen scale lib.kicad_sym")(options "")(descr ""))
+)
